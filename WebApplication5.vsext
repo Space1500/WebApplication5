@@ -1,5 +1,5 @@
 {
-  "id": "302a4c1f-1d43-40f9-9f22-827f6ae55ca1",
+  "id": "9d54eb8e-ebfb-475e-a894-082604185652",
   "name": "My Visual Studio extensions",
   "description": "A collection of my Visual Studio extensions",
   "version": "1.0",
@@ -37,12 +37,24 @@
       "vsixId": "CppCLR_WinformsProject_VS2017.Company.bc314fda-63b7-4ccc-a828-4e8dde476f77"
     },
     {
+      "name": "Microsoft Analysis Services Projects",
+      "vsixId": "04a86fc2-dbd5-4222-848e-911638e487fe"
+    },
+    {
       "name": "NPM Task Runner",
       "vsixId": "d7f89ba3-815c-4feb-89b9-68d1654e2138"
     },
     {
+      "name": "Package Installer",
+      "vsixId": "fdd64809-376e-4542-92ce-808a8df06bcc"
+    },
+    {
       "name": "Power Query SDK",
       "vsixId": "PowerQuerySDK.Microsoft.30831070-f420-4649-a031-6f679996b182"
+    },
+    {
+      "name": "Quick Launch Tasks",
+      "vsixId": "QuickLaunchTasks"
     },
     {
       "name": "Razor Language Services",
