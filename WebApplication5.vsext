@@ -1,0 +1,60 @@
+{
+  "id": "302a4c1f-1d43-40f9-9f22-827f6ae55ca1",
+  "name": "My Visual Studio extensions",
+  "description": "A collection of my Visual Studio extensions",
+  "version": "1.0",
+  "extensions": [
+    {
+      "name": ".NET Compiler Platform SDK",
+      "vsixId": "3a012d4e-6057-4e7c-8123-6d4be1d4723c"
+    },
+    {
+      "name": "Advanced Installer for Visual Studio 2017",
+      "vsixId": "Caphyon.AdvancedInstaller.23debb5a-cff4-4b91-88bf-6280f72a7ebb"
+    },
+    {
+      "name": "BindingRedirects Doctor",
+      "vsixId": "3d111d8d-7d15-4c6e-8ca3-494426e539ff"
+    },
+    {
+      "name": "Bootstrap Bundle",
+      "vsixId": "BootstrapBundle..1f81dae6-6d91-412a-afc2-da308b11a5a1"
+    },
+    {
+      "name": "Browser Link Inspector 2017",
+      "vsixId": "bc4780ab-de6e-4999-bebf-51390e1b75ef"
+    },
+    {
+      "name": "C# Methods Code Snippets",
+      "vsixId": "e2abe71c-24a4-4e59-8cc1-8c7805afe23f"
+    },
+    {
+      "name": "C++ Debugger Visualizers for VS2017",
+      "vsixId": "CPPDebuggerVisualizers.VS2017.DD7259EC-D23B-478B-A647-6162C579CCD4"
+    },
+    {
+      "name": "C++/CLR Windows Forms für Visual Studio 2017",
+      "vsixId": "CppCLR_WinformsProject_VS2017.Company.bc314fda-63b7-4ccc-a828-4e8dde476f77"
+    },
+    {
+      "name": "NPM Task Runner",
+      "vsixId": "d7f89ba3-815c-4feb-89b9-68d1654e2138"
+    },
+    {
+      "name": "Power Query SDK",
+      "vsixId": "PowerQuerySDK.Microsoft.30831070-f420-4649-a031-6f679996b182"
+    },
+    {
+      "name": "Razor Language Services",
+      "vsixId": "Microsoft.VisualStudio.RazorExtension"
+    },
+    {
+      "name": "Web Compiler",
+      "vsixId": "148ffa77-d70a-407f-892b-9ee542346862"
+    },
+    {
+      "name": "Windows Machine Learning Code Generator VS 2017",
+      "vsixId": "MLGen"
+    }
+  ]
+}
