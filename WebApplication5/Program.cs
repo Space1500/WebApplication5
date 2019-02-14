@@ -11,6 +11,11 @@ namespace WebApplication5
 
         public static void Main(string[] args)
         {
+            if (args == null)
+            {
+                throw new System.ArgumentNullException(nameof(args));
+            }
+
             CreateWebHostBuilder(args).Build().Run();
         }
 
